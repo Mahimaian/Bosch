@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Bosch Font';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bosch Font'), url(./assets/fonts/BoschSans-Regular.woff) format("woff");
+}
+
+body {
+  overflow: hidden !important;
+  font-family: "Bosch Font";
+}

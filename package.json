@@ -1,0 +1,70 @@
+{
+  "name": "jmaas-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/self_service",
+  "dependencies": {
+    "@date-io/date-fns": "^1.3.13",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@material-ui/pickers": "^3.3.10",
+    "@material-ui/styles": "^4.10.0",
+    "@mui/material": "^5.3.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@tinymce/tinymce-react": "^3.13.0",
+    "apexcharts": "^3.33.1",
+    "axios": "^0.21.0",
+    "classnames": "^2.2.6",
+    "date-fns": "^2.28.0",
+    "draft-js": "^0.11.7",
+    "echarts": "^5.3.0",
+    "echarts-for-react": "^3.0.2",
+    "material-ui-search-bar": "^1.0.0",
+    "moment": "^2.29.1",
+    "mui-datatables": "^3.7.1",
+    "quill": "^1.3.6",
+    "react": "^17.0.1",
+    "react-apexcharts": "^1.3.7",
+    "react-big-calendar": "^0.28.2",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^17.0.1",
+    "react-draft-wysiwyg": "^1.14.7",
+    "react-material-ui-carousel": "^2.3.11",
+    "react-quilljs": "^1.2.17",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "react-syntax-highlighter": "^15.3.0",
+    "recharts": "^1.8.5",
+    "tinycolor2": "^1.4.2",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
